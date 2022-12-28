@@ -1,0 +1,4 @@
+data\EurogameDAO.class
+model\Eurogame.class
+data\Conexion.class
+controller\ServletControlador.class
